@@ -14,6 +14,8 @@ http://aprs.gids.nl/nmea/
 
 
 ## デザイン
-* nmea --> csv (python pandas)
+* nmea --> csv (all rows)
 
-* csv --> some 3d plots in kml with Path (and Polygons?)
+* csv: extract some seesential row ($GNGSA ?) and clean
+
+* csv (cleaned) --> some 3d plots in kml with Path (and Polygons?)

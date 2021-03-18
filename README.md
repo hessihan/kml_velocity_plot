@@ -15,6 +15,5 @@ http://aprs.gids.nl/nmea/
 
 ## デザイン
 * nmea --> csv (python pandas)
-https://stackoverflow.com/questions/65394166/how-to-read-an-nmea-file-with-python
 
 * csv --> some 3d plots in kml with Path (and Polygons?)

@@ -18,4 +18,6 @@ http://aprs.gids.nl/nmea/
 
 * csv: extract some seesential row ($GNGSA ?) and clean
 
-* csv (cleaned) --> some 3d plots in kml with Path (and Polygons?)
+* csv (cleaned) -->kml with Extruded Path: LineString (and Polygons?) (Opaque blue walls with white outline, values showed on plot)
+
+* 最終的には、LineString の plot ではなくて、各地点で直方体のbinを作る(ヒストグラム的な)
